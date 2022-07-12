@@ -1,1 +1,3 @@
-These are 24 random graphs.
+These are 24 random graphs, which are randomly generated in the following way. 
+In some fixed area N ∗ N, a given number of points are randomly selected with a uniform distribution, which represent the nodes of the output graph. 
+If the distance between two nodes i and j is smaller that some value R, edge (i, j) is a part of the output graph. 
